@@ -1,1 +1,3 @@
 # Valorant_login_node.js
+UserIDとPasswordを自分の入れたらアクセストークンとかいろいろ取得できます
+そんだけです
